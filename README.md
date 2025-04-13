@@ -9,7 +9,7 @@ Features Installation Usage Screenshots Technologies Used Contributing License F
 
 Image Uploading: Easily upload images for processing. Image Processing: Adjust sliders for various image enhancement features, including brightness, contrast, and gamma correction. Annotations: Add markers or labels to images with options to save/export. Dark Theme UI: Sleek, modern dark mode UI for comfortable usage. Tooltips: Tooltips on buttons and sliders for a user-friendly experience. Installation Clone the repository:
 
-bash Copy code git clone https://github.com/yourusername/image-processing-app.git cd image-processing-app Install Dependencies: Ensure you have Python 3.11 and install the necessary packages:
+
 
 bash Copy code pip install -r requirements.txt Your requirements.txt file should include:
 
